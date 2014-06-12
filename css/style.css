@@ -1,0 +1,21 @@
+@charset "utf-8";
+/* CSS Document */
+.container{
+	max-width:960px;
+	margin:auto;
+	background-color:#0c0c0c;
+	}
+.header_img{padding:20px 0px 20px 108px;
+width:181px;}
+.content{
+	width:100%;
+	background-color:#315e00;
+	background: -webkit-gradient(radial, center center, 0, center center, 460, from(#6bbb00), to(#336300));
+	float:left;
+	}
+.content_img{width: 167px;
+padding: 21px 0px 25px 114px;
+}
+.content_1{float:left;}
+.content_2{float:left;color:#FFF;}
+span{color:#8ac201;}
